@@ -1,4 +1,4 @@
-# emergency-response
+# Emergency Response
 
 A Java program that simulatesan emergency response system. The program recieves a
 certain number of requests per simulated day and generates dispatch messages for 
